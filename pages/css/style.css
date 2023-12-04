@@ -1,0 +1,16 @@
+.profile{
+  vertical-align: middle;
+  width: 220px;
+  height:220px;
+  border-radius: 50%;
+}
+.buttonEditProfile{
+  vertical-align: middle;
+  margin-left: 100%;
+  color: red;
+}
+.but_profile{
+  vertical-align: middle;
+  margin-left: 50%;
+  background-color: #d9534f;
+}
